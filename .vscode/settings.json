@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "127.0.0.1",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "TaxiDB",
+            "group": "TaxiDB",
+            "database": "taxi",
+            "username": "taxi",
+            "password": "Op09887710"
+        }
+    ]
+}
